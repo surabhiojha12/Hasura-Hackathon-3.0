@@ -1,0 +1,95 @@
+.dum{
+  margin-top:30px;
+  padding:100px 30px 100px 30px; 
+// background-image: url("india.jpg");
+ //background-color:white;
+
+    /* Full height */
+    //height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.thumbnail{
+  margin-top:30px;
+}
+.head
+{
+  color:#493D26;
+  font-family: 'Lobster',cursive;
+  font-size:70px;
+     
+}
+.head1{
+	margin-top: 80px;
+}
+#edu{
+  
+  //background-image: url("pla.jpg");
+  background-color:white;
+
+    /* Full height */
+    height: 110%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	padding-top:50px;
+}
+#cod{
+  //background-image: url("ajmer.jpg");
+
+    /* Full height */
+    //height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	 background-color:#FFEBCD;
+	 margin-bottom:50px;
+	 padding-bottom:50px;
+  
+}
+.whhy{
+  color:white;
+}
+.ct{
+margin-bottom:50px;}
+#pro{
+ background-image: url("ajmer.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#con{
+  margin-top:10px;
+  color:darkgreen;
+}
+
+.sick{
+	margin-top: 50px;
+	
+	font-size: 50px;
+	color: #7F5217;
+	font-family: 'Lobster',cursive;
+}
+.savage{
+	font-size: 20px;
+	color: darkblack;
+}
+.logo{
+	max-height: 150px;
+	margin:0 auto;
+}
+#home{
+background-color:#FFEBCD;	
+}
